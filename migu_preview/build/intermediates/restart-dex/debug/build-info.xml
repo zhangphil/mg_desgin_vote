@@ -4,27 +4,27 @@
     api-level="22"
     density="xxhdpi"
     format="7"
-    timestamp="369546627790502"
+    timestamp="373274395815621"
     token="1098230837470230633" >
 
     <task
         name="javac"
-        duration="1638" />
+        duration="3043" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="2024" />
+        duration="1831" />
     <task
         name="verifier"
-        duration="304" />
+        duration="1365" />
 
     <artifact
         location="C:\developer\code\migu_preview\migu_preview\build\outputs\apk\migu_preview-debug.apk"
         type="MAIN" />
 
-    <build timestamp="369546627790502" >
+    <build timestamp="373274395815621" >
         <artifact
             location="C:\developer\code\migu_preview\migu_preview\build\outputs\apk\migu_preview-debug.apk"
             type="MAIN" />

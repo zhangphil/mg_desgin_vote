@@ -61,14 +61,14 @@
         jar="C:\developer\code\migu_preview\migu_preview\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
         jumboMode="true"
         revision="23.0.3"
-        sha1="d1bf954b99a743ae874c632ac45a0d53e7b93fc5">
+        sha1="3a377ad4cb6c45678b3efaca543a037525c9dbe8">
         <dex dex="C:\developer\code\migu_preview\migu_preview\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_86e4103c65e95c07709dc4e692c9741e2880e76e\classes.dex" />
     </item>
     <item
         jar="C:\developer\code\migu_preview\migu_preview\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
         jumboMode="true"
         revision="23.0.3"
-        sha1="7f2938a4326ec5ba729740633205b26efc54cd21">
+        sha1="18a24916cdd577809822de94f534dbc0cbb8f089">
         <dex dex="C:\developer\code\migu_preview\migu_preview\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_aead10fc9344f382a465cbe005a13d56eeb3ca86\classes.dex" />
     </item>
     <item
