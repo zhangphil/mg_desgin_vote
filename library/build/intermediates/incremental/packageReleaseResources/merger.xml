@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main$Generated" generated="true"><source path="C:\developer\code\migu_preview\library\src\main\res"/><source path="C:\developer\code\migu_preview\library\build\generated\res\rs\release"/><source path="C:\developer\code\migu_preview\library\build\generated\res\resValues\release"/></dataSet><dataSet config="release$Generated" generated="true"><source path="C:\developer\code\migu_preview\library\src\release\res"/></dataSet><dataSet config="main" generated-set="main$Generated"><source path="C:\developer\code\migu_preview\library\src\main\res"><file path="C:\developer\code\migu_preview\library\src\main\res\values\attrs.xml" qualifiers=""><declare-styleable name="SubsamplingScaleImageView">
+        <attr format="reference" name="src"/>
+        <attr format="string" name="assetName"/>
+        <attr format="boolean" name="panEnabled"/>
+        <attr format="boolean" name="zoomEnabled"/>
+        <attr format="boolean" name="quickScaleEnabled"/>
+        <attr format="color" name="tileBackgroundColor"/>
+    </declare-styleable></file></source><source path="C:\developer\code\migu_preview\library\build\generated\res\rs\release"/><source path="C:\developer\code\migu_preview\library\build\generated\res\resValues\release"/></dataSet><dataSet config="release" generated-set="release$Generated"><source path="C:\developer\code\migu_preview\library\src\release\res"/></dataSet><mergedItems><configuration qualifiers=""><declare-styleable name="SubsamplingScaleImageView"><attr format="reference" name="src"/><attr format="string" name="assetName"/><attr format="boolean" name="panEnabled"/><attr format="boolean" name="zoomEnabled"/><attr format="boolean" name="quickScaleEnabled"/><attr format="color" name="tileBackgroundColor"/></declare-styleable></configuration></mergedItems></merger>

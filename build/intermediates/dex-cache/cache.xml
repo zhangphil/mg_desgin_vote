@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\developer\code\migu_preview\migu_preview\libs\BmobSDK_V3.4.7_0527.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="8667f5dc9bdebc29f5ae64595265539023d1cf63">
+        <dex dex="C:\developer\code\migu_preview\migu_preview\build\intermediates\transforms\dex\debug\folders\1000\2\BmobSDK_V3.4.7_0527_5086939dddd84c393b5affa1eaf75fb6270e5d5c\classes.dex" />
+    </item>
+    <item
+        jar="C:\developer\code\migu_preview\migu_preview\build\intermediates\exploded-aar\com.android.support\design\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="fc29308a7a8f6d4407b34634eb48fb8b817f9b23">
+        <dex dex="C:\developer\code\migu_preview\migu_preview\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-24.0.0_800ce11c799c69270e9786cf6810351655445bbf\classes.dex" />
+    </item>
+    <item
+        jar="C:\developer\code\migu_preview\migu_preview\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="3bd97cfefd783e9de1dd1c30574a6adb44b4409b">
+        <dex dex="C:\developer\code\migu_preview\migu_preview\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.0.0_169f2ac1dff22f6851e796d361d72f3de8ffe118\classes.dex" />
+    </item>
+    <item
+        jar="C:\developer\android-sdk\android-sdk-windows\extras\android\m2repository\com\android\support\support-annotations\24.0.0\support-annotations-24.0.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="C:\developer\code\migu_preview\migu_preview\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.0.0_52dae30069c7d7d45adf80ba32ba14422c36dff9\classes.dex" />
+    </item>
+    <item
+        jar="C:\developer\code\migu_preview\migu_preview\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="e70f608219ed6b974644c333249ab2bb7b71de98">
+        <dex dex="C:\developer\code\migu_preview\migu_preview\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.0.0_77e193a16047fe74525477c042f38d6d0969138f\classes.dex" />
+    </item>
+    <item
+        jar="C:\developer\code\migu_preview\migu_preview\libs\okhttp-3.2.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="f7873a2ebde246a45c2a8d6f3247108b4c88a879">
+        <dex dex="C:\developer\code\migu_preview\migu_preview\build\intermediates\transforms\dex\debug\folders\1000\2\okhttp-3.2.0_91f3995fad0cdd47a3e639618dbcd08ec836e8db\classes.dex" />
+    </item>
+    <item
+        jar="C:\developer\code\migu_preview\migu_preview\libs\Bmob_Push_V0.9beta_20160520.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="faef33e869bfbc3949cc789948e4f57ec61a1cab">
+        <dex dex="C:\developer\code\migu_preview\migu_preview\build\intermediates\transforms\dex\debug\folders\1000\2\Bmob_Push_V0.9beta_20160520_43f1d5bccce3c7bdfac89f98597380ff9b77af86\classes.dex" />
+    </item>
+    <item
+        jar="C:\developer\code\migu_preview\migu_preview\libs\android-support-v13.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="636f0fc2e3ad660ba46e0632d44891ae1a616c81">
+        <dex dex="C:\developer\code\migu_preview\migu_preview\build\intermediates\transforms\dex\debug\folders\1000\2\android-support-v13_e68bb74ba91db255f0fd942320c6ac1552563380\classes.dex" />
+    </item>
+    <item
+        jar="C:\developer\code\migu_preview\migu_preview\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="d1bf954b99a743ae874c632ac45a0d53e7b93fc5">
+        <dex dex="C:\developer\code\migu_preview\migu_preview\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_86e4103c65e95c07709dc4e692c9741e2880e76e\classes.dex" />
+    </item>
+    <item
+        jar="C:\developer\code\migu_preview\migu_preview\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="7f2938a4326ec5ba729740633205b26efc54cd21">
+        <dex dex="C:\developer\code\migu_preview\migu_preview\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_aead10fc9344f382a465cbe005a13d56eeb3ca86\classes.dex" />
+    </item>
+    <item
+        jar="C:\developer\code\migu_preview\migu_preview\libs\okio-1.7.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="1dc44f4cec20a64cebb68b90b4218f82ac7948b1">
+        <dex dex="C:\developer\code\migu_preview\migu_preview\build\intermediates\transforms\dex\debug\folders\1000\2\okio-1.7.0_bc24a154496f5e42835980dc48e6a106aacc8299\classes.dex" />
+    </item>
+    <item
+        jar="C:\developer\code\migu_preview\migu_preview\libs\mpandroidchartlibrary-2-2-4.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="e5455fb794bfcbeb75da252dffd907794614f7fd">
+        <dex dex="C:\developer\code\migu_preview\migu_preview\build\intermediates\transforms\dex\debug\folders\1000\2\mpandroidchartlibrary-2-2-4_a8e4aa7bcb2a1b57200ed84fb1984340236cf2cd\classes.dex" />
+    </item>
+    <item
+        jar="C:\developer\code\migu_preview\migu_preview\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="894922f67adeaaef51f077a29e315da21a3382d3">
+        <dex dex="C:\developer\code\migu_preview\migu_preview\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-24.0.0_813f9d03206db3dd880c6e880c7d64d41a217e98\classes.dex" />
+    </item>
+    <item
+        jar="C:\developer\code\migu_preview\migu_preview\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="C:\developer\code\migu_preview\migu_preview\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.0.0_f98146ab3ca704f26b6258940cde0275a09d0dca\classes.dex" />
+    </item>
+    <item
+        jar="C:\developer\code\migu_preview\migu_preview\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="C:\developer\code\migu_preview\migu_preview\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.0.0_92aa4e6bed9a5274997b7118fb3256ec7fdf2cd5\classes.dex" />
+    </item>
+    <item
+        jar="C:\developer\code\migu_preview\migu_preview\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="0874286cc2fd88d54fdf130e9d5372730da6de97">
+        <dex dex="C:\developer\code\migu_preview\migu_preview\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.0.0_65aeedb5b19d0495295704aa30783cefe177f445\classes.dex" />
+    </item>
+
+</items>
